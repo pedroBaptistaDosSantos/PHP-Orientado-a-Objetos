@@ -1,3 +1,11 @@
+# O que é uma Classe Abstrata?
+
+Classes Abstratas são modelos que nunca podem ser instanciadas. Necessário criar a classe filha para herda-la.
+
+<br>
+<br>
+
+
 # Diagrama de Classe (UML)
 
 ```mermaid
